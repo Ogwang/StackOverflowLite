@@ -10,7 +10,7 @@ install:
 before_script:
   - psql -c "CREATE DATABASE test_db;" -U postgres
   - psql -c "CREATE DATABASE stackover;" -U postgres
-  - psql -c "CREATE USER postgres WITH PASSWORD 'adonis123';" -U postgres
+  - psql -c "CREATE USER ogwang WITH PASSWORD 'adonis123';" -U postgres
 # command to run tests
 script: 
   - py.test --cov=app -v
