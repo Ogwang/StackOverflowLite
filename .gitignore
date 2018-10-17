@@ -14,6 +14,7 @@
 *.log
 *.pot
 *.pyc
+venv
 
 __pycache__/
 

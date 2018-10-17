@@ -20,9 +20,9 @@ StackOverflow-lite is a platform where people can ask questions and provide answ
 ## Installation
 
 ```
-    $ git clone https://github.com/p8ul/stackoverflow-lite
+    $ git clone https://github.com/Ogwang/StackOverflowLite
 
-    $ git clone https://github.com/p8ul/stackoverflow-lite.git
+    $ git clone https://github.com/Ogwang/StackOverflowLite.git
     $ cd stackoverflow-lite
     $ virtualenv venv
     $ . venv/bin/activate
