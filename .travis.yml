@@ -14,6 +14,6 @@ before_script:
 # command to run tests
 script: 
   #- py.test --cov=app -v
-  - py.test --cov-config .coveragerc --cov=automaton
+  - py.test --cov-config .coveragerc --cov=app
 after_success:
   - coveralls
