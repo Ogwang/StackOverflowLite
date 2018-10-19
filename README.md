@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.org/Ogwang/StackOverflowLite.svg?branch=master)](https://travis-ci.org/Ogwang/StackOverflowLite)
 [![Coverage Status](https://coveralls.io/repos/github/Ogwang/StackOverflowLite/badge.svg?branch=master)](https://coveralls.io/github/Ogwang/StackOverflowLite?branch=master)
+[![Maintainability](https://api.codeclimate.com/v1/badges/cd7c0d1d39a95c0efe70/maintainability)](https://codeclimate.com/github/Ogwang/StackOverflowLite/maintainability)
 
 # StackOverflowLite# 
 StackOverflowLite is a platform where people can ask questions and provide answers.
