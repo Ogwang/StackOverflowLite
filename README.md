@@ -1,6 +1,6 @@
 # StackOverflowLite# 
 StackOverflowLite is a platform where people can ask questions and provide answers.
-[![Build Status](https://travis-ci.org/Ogwang/StackOverflowLite)](https://travis-ci.org/Ogwang/StackOverflowLite)
+[![Build Status](https://travis-ci.org/Ogwang/StackOverflowLite.svg?branch=master)](https://travis-ci.org/Ogwang/StackOverflowLite)
 [![Coverage Status](https://coveralls.io/repos/github/Ogwang/StackOverflowLite/badge.svg?branch=master)](https://coveralls.io/github/Ogwang/StackOverflowLite?branch=master)
 ## Project Overview
 StackOverflow-lite is a platform where people can ask questions and provide answers.
