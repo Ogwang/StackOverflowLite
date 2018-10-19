@@ -25,8 +25,7 @@ StackOverflow-lite is a platform where people can ask questions and provide answ
 ## Installation
 
 ```
-    $ git clone https://github.com/Ogwang/StackOverflowLite
-
+  
     $ git clone https://github.com/Ogwang/StackOverflowLite.git
     $ cd stackoverflow-lite
     $ virtualenv venv
@@ -35,7 +34,7 @@ StackOverflow-lite is a platform where people can ask questions and provide answ
 ```
 ## Running the application
 ```
-    $ export DATABASE_URL="Your DATABASE_URL here"
+    $ export DATABASE_URL="Your DATABASE_URL"
 ``` 
 or open .env file and copy your postgres database url
 ```
@@ -50,9 +49,9 @@ or open .env file and copy your postgres database url
     $ pytest --cov=app
 ```
 
-### Endpoints
+## Endpoints
 
-#### Users Endpoints
+## Users Endpoints
 
 Method | Endpoint | Functionality
 --- | --- | ---
@@ -61,7 +60,7 @@ GET | `/api/v1/auth/users` | Lists all users
 GET | `/api/v1/auth/users/{user_id}` | Retrieve a user
 POST | `/api/v1/auth/login` | Login a user
 
-#### Questions Endpoints
+## Questions Endpoints
 
 Method | Endpoint | Functionality
 --- | --- | ---
@@ -72,7 +71,7 @@ GET | `/api/v1/questions/{question_id}` | Retrieve a question
 PUT | `/api/v1/questions/{question_id}` | Edit a question of a logged in user
 DELETE | `/api/v1/questions/{question_id}` | Delete a request of a logged in user
 
-#### Answers Endpoints
+## Answers Endpoints
 
 Method | Endpoint | Functionality
 --- | --- | ---
