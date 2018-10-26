@@ -52,8 +52,8 @@ class QuestionApiTestCase(BaseTestCase):
     def test_post_question_normal(self):
         """ Example: Send Expected paylaod """
         data = {
-            'title': 'Test title',
-            'body': 'Test body',
+            'title': 'Smaple Test Title',
+            'body': 'Sample Test body',
             'user': self.user_id
         }
 

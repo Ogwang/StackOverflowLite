@@ -53,9 +53,9 @@ class AuthModelTestCase(BaseTestCase):
         self.assertEqual(user.update(), False)
 
     def test_auth_model_update_expected(self):
-        """ Example: email 'pkinuthia10@gmail.com' """
-        user.email = 'joshua@j.com'
-        user.username = 'p8ul'
+        """ Example: email 'denisogwang20@gmail.com' """
+        user.email = 'denis@ilarapay.com'
+        user.username = 'Ogwang'
         user.user_id = self.user_id
         self.assertEqual(user.update(), True)
 

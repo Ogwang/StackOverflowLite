@@ -1,7 +1,7 @@
 # Custom Model
 
-# Author: P8ul
-# https://github.com/p8ul
+# Author: Ogwang
+# https://github.com/Ogwang
 
 """
     Answers ModelController
