@@ -1,7 +1,7 @@
 FORMAT: 1A
 HOST: http://127.0.0.1:5000/api/v1
 
-# Stackoverflow-lite
+# StackOverflowLite 
 
 Stackoverflow lite is a simple API allowing users to view post questions, answers and vote for them. You can view this documentation over at [Apiary](https://stackoverflowlite2.docs.apiary.io).
 ## Users: List users [/auth/users]
@@ -44,9 +44,9 @@ This action allows you to login and and get a JWT authorization token.
 + Request (application/json)
 
 {
-        "email": "sky@Jhames.com",
-        "password": "sdsdfsdf9s0d9fs09sf",
-        "username": "sky"
+        "email": "denisogwang20@gmail.com",
+        "password": "adonis123",
+        "username": "ogwang"
 }
 
 

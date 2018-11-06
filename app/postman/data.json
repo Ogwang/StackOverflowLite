@@ -113,7 +113,7 @@
             "auth": null,
             "events": [],
             "folder": null,
-            "rawModeData": "{\n\"username\": \"sky\",\n\"email\": \"sky@Jhames.com\",\n\"password\": \"sdsdfsdf9s0d9fs09sf\" }",
+            "rawModeData": "{\n\"username\": \"ogwang\",\n\"email\": \"denisogwang20@gmail.com\",\n\"password\": \"adonis123\" }",
             "headers": "Content-Type: application/json\n",
             "pathVariables": {}
         },
@@ -134,7 +134,7 @@
             "auth": null,
             "events": [],
             "folder": null,
-            "rawModeData": "{\n\"username\": \"Users\",\n\"email\": \"sdfs@sdfs.com\",\n\"password\": \"sdsdfsdf9s0d9fs09sf\" }",
+            "rawModeData": "{\n\"username\": \"ogwang\",\n\"email\": \"denisogwang20@gmail.com\",\n\"password\": \"adonis123\" }",
             "headers": "Content-Type: application/json\n",
             "pathVariables": {}
         },
